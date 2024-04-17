@@ -16,3 +16,11 @@
 5.  `php artisan key:generate`
 6.  `php artisan migrate`
 7.  `php artisan serve`
+
+### Home
+
+<img width="1050" alt="Screenshot 2023-08-31 at 10 34 39 PM" src="public/images/home.png">
+
+### Result
+
+<img width="1050" alt="Screenshot 2023-08-31 at 10 34 39 PM" src="public/images/result.png">
