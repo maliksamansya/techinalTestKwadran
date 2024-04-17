@@ -19,8 +19,8 @@
 
 ### Home
 
-<img width="1050" alt="Screenshot 2023-08-31 at 10 34 39 PM" src="public/images/home.png">
+<img width="1050" alt="Screenshot 2023-08-31 at 10 34 39 PM" src="zodiac/public/images/home.png">
 
 ### Result
 
-<img width="1050" alt="Screenshot 2023-08-31 at 10 34 39 PM" src="public/images/result.png">
+<img width="1050" alt="Screenshot 2023-08-31 at 10 34 39 PM" src="zodiac/public/images/result.png">
